@@ -26,6 +26,17 @@ Even better, you can [submit a Pull Request](#pull-request) with a fix.
 
 ## <a name="feature"></a> Missing a Feature?
 
+You can request a new feature by [submitting an issue](#issue) to our GitHub Repository.
+For a new feature, first open an issue and outline your proposal so that it can be discussed.
+This process allows us to better coordinate our efforts, prevent duplication of work, and help you to craft the change so that it is successfully accepted into the project.
+
+## <a name="issue"></a> Submitting an Issue
+
+ssdsdasdasdasd
+
+## <a name="pull-request"></a> Submitting a Pull Request (PR)
+
+sdasdasdasdsssssdsds
 
 
 
